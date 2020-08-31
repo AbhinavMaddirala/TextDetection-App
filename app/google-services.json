@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168671464478",
+    "firebase_url": "https://myappie-d0ae3.firebaseio.com",
+    "project_id": "myappie-d0ae3",
+    "storage_bucket": "myappie-d0ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168671464478:android:60a2a1f28c0b159fd8f20f",
+        "android_client_info": {
+          "package_name": "com.example.textdetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168671464478-9m9d1e40nart7nhll41ov7gtsjo2pntp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textdetectionapp",
+            "certificate_hash": "480b8ecdcd4991adda28da652a0024dc729c5f9e"
+          }
+        },
+        {
+          "client_id": "168671464478-jqqrbl3sepg8797emgpn5bc4nikm80st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXGUdLBBDXFOwNy0yUfCJuZwfNV1G8oaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168671464478-jqqrbl3sepg8797emgpn5bc4nikm80st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
